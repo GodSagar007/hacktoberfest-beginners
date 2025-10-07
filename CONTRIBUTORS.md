@@ -147,3 +147,8 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+
+#### Name: [Sagar Tewari](https://github.com/GodSagar007)
+ - Place: Pantnagar, Uttarakhand, India
+ - Bio: Artificial Intelligence Enthusiast
+ - GitHub: [GodSagar007](https://github.com/GodSagar007)
